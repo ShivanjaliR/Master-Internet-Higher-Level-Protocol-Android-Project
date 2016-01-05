@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uber.Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_add__location">Add_Location</string>
+    <string name="title_activity_splash1">splash1</string>
+    <string name="title_activity_book_car">BookCar</string>
+</resources>
